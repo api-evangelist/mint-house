@@ -50,7 +50,7 @@ tags:
 - Lodging
 - Apartment Hotels
 - Short-Term Rental
-- Real-Estate
+- Real Estate
 - Property Management
 tags_raw:
 - Company
@@ -61,6 +61,7 @@ tags_raw:
 - Short Term Rental
 - Real Estate
 - Property Management
+- Real-Estate
 apis: []
 maintainers:
 - FN: Kin Lane
